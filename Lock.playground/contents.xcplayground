@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='pthread_mutex recursive'/>
+        <page name='pthread_mutex'/>
+        <page name='pthread_rwlock'/>
+        <page name='semaphore'/>
+        <page name='os_unfair_lock'/>
+        <page name='NSLock'/>
+        <page name='NSCondition'/>
+        <page name='NSConditionLock'/>
+        <page name='NSRecursiveLock'/>
+    </pages>
+</playground>
